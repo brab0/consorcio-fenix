@@ -1,0 +1,15 @@
+{
+  "name": "consorcio-fenix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Rodrigo Brabo <brabo.rodrigo@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "doggo-scraping": "^1.0.2",
+    "fs": "0.0.1-security"
+  }
+}
